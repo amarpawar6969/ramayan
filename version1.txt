@@ -1,1 +1,2 @@
 this is version 1
+line 2 added in second version
